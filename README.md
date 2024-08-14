@@ -2,7 +2,7 @@
 
 ### 🎂 Birth: 2000.11.24  
 ### ✉️ E-Mail: [ellie1364@naver.com](mailto:ellie1364@naver.com)  
-### 🐱 Github: [github.com/your-github-username](https://github.com/your-github-username)
+### 🐱 Github: [ellie1364@naver.com](https://github.com/usessss)
 
 ---
 
