@@ -20,6 +20,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
+---
+
+### (✌ -͈᷅‎ ⌄ -͈᷄) 프로젝트 👩‍💻
+## 👩‍💻 나의 포트폴리오 페이지 만들기
+- 진행 기간 : 2024.08.09 ~
+- 기술 그리드 : HTML, CSS, JavaScript
+- 깃허브 : https://github.com/usessss/first-commit
+
 
 ---
 
