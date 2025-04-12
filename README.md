@@ -28,6 +28,7 @@
 - 진행 기간 : 2024.08.09 ~
 - 기술 그리드 : HTML, CSS, JavaScript
 - 깃허브 : https://github.com/usessss/first-commit
+- 배포 : https://usessss.github.io/first-commit/
 
 
 ---
